@@ -43,7 +43,7 @@ The goals / steps of this project are the following:
 [image24]: ./writeup/images/softmax_image4.jpg "softmax_image4"
 [image25]: ./writeup/images/softmax_image5.jpg "softmax_image5"
 
-[image26]: ./writeup/images/visualize_network.jpg "visualize_network"
+[image26]: ./writeup/images/visualize_network.JPG "visualize_network"
 
 
 ## Data Set Summary and Exploration
